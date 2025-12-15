@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css" />
+  <script src="scripts.js" defer></script>
+  <title>Pokédex</title>
+</head>
+<body>
+  <!-- Logo -->
+  <img src="pokedex.png" alt="Pokédex Logo" class="logo" />
+
+  <div class="pokedex">
+    <input type="text" id="pokemonInput" placeholder="Digite o nome ou número do Pokémon" />
+    <button id="searchBtn" aria-label="Buscar Pokémon">Buscar</button>
+
+    <div class="pokedex-container">
+      <img src="poke.jpeg" alt="Pokédex" class="pokedex-bg" />
+      
+      <!-- Exibição principal -->
+      <!-- Parte central da Pokédex (tela branca) -->
+<div class="pokemon-display">
+  <img id="pokemonImgDisplay" src="" alt="Imagem do Pokémon" />
+  <div>
+    <p><strong>Nome:</strong> <span id="pokemonNameDisplay"></span></p>
+    <p><strong>Número:</strong> <span id="pokemonIdDisplay"></span></p>
+  </div>
+</div>
+
+<!-- Parte inferior da Pokédex (tela verde) -->
+<div class="pokemon-info hidden" id="pokemonInfo">
+  <!-- Remova esta linha abaixo: -->
+  <h2 id="pokemonName"></h2>
+  <p><strong>Tipo:</strong> <span id="pokemonType"></span></p>
+  <p><strong>Altura:</strong> <span id="pokemonHeight"></span></p>
+  <p><strong>Peso:</strong> <span id="pokemonWeight"></span></p>
+</div>
+
+
+      <!-- Loader -->
+      <div id="loading" class="loader hidden"></div>
+
+      <!-- Informações detalhadas -->
+      <div class="pokemon-info hidden" id="pokemonInfo">
+        <img id="pokemonImg" src="" alt="Sprite do Pokémon" />
+        <h2 id="pokemonName"><2>/h
+        <p><strong>Tipo:</strong> <span id="pokemonType"></span></p>
+        <p><strong>Altura:</strong> <span id="pokemonHeight"></span></p>
+        <p><strong>Peso:</strong> <span id="pokemonWeight"></span></p>
+      </div>
+
+      <!-- Mensagem de erro -->
+      <p id="error" class="hidden">Pokémon não encontrado. Tente outro nome ou número.</p>
+    </div>
+  </div>
+</body>
+</html>
