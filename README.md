@@ -1,4 +1,4 @@
-🧢 simple-pokedes
+#  simple-pokedes🧢
 
 Simple Pokédex — Um projeto simples de Pokédex feito para estudo, permitindo buscar Pokémon e visualizar informações básicas usando a PokéAPI.
 
