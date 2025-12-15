@@ -12,7 +12,7 @@ Simple Pokédex — Um projeto simples de Pokédex feito para estudo, permitindo
 
 ⚡ Interface Simples → Layout direto ao ponto, focado em funcionalidade e aprendizado.
 
-$ 🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 HTML
 
