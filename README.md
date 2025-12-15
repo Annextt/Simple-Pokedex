@@ -1,8 +1,8 @@
-#  simple-pokedes🧢
+#  simple-pokedex🧢
 
 Simple Pokédex — Um projeto simples de Pokédex feito para estudo, permitindo buscar Pokémon e visualizar informações básicas usando a PokéAPI.
 
-📌 Estrutura da Página
+# 📌 Estrutura da Página
 
 🔍 Busca de Pokémon → Campo para pesquisar Pokémon pelo nome ou ID.
 
@@ -12,7 +12,7 @@ Simple Pokédex — Um projeto simples de Pokédex feito para estudo, permitindo
 
 ⚡ Interface Simples → Layout direto ao ponto, focado em funcionalidade e aprendizado.
 
-🛠️ Tecnologias Utilizadas
+$ 🛠️ Tecnologias Utilizadas
 
 HTML
 
@@ -22,7 +22,7 @@ JavaScript
 
 PokéAPI
 
-🚀 Como Executar
+# 🚀 Como Executar
 
 Clone o repositório:
 
@@ -31,7 +31,7 @@ git clone https://github.com/SEU-USUARIO/simple-pokedes.git
 
 Abra o arquivo index.html no navegador.
 
-📬 Contato
+# 📬 Contato
 
 📸 Instagram: @d4vid_.nk
 📧 Email: devdavidnakahara@gmail.com
