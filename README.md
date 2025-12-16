@@ -36,4 +36,4 @@ Layout direto ao ponto, focado em aprendizado e usabilidade.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/simple-pokedex.git
+git clone https://github.com/Annextt/simple-pokedex.git
